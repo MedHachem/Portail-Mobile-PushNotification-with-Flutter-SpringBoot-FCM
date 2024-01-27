@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088572728121",
+    "project_id": "gtinfoapp-92ddf",
+    "storage_bucket": "gtinfoapp-92ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088572728121:android:3dae329a9b5d4034d9bee8",
+        "android_client_info": {
+          "package_name": "com.example.gtiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088572728121-0ip0053qg8ghs39k3e7qjr4bqpa6b0n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyov70k9XTMZrD3xARTn5E_q2K5Eyeh4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088572728121-0ip0053qg8ghs39k3e7qjr4bqpa6b0n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
